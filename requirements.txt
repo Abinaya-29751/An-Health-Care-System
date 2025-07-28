@@ -4,6 +4,7 @@ gunicorn==21.2.0
 requests==2.31.0
 beautifulsoup4==4.12.2
 lxml==4.9.3
+termcolor==2.3.0
 
 # Optional: Only include if you actually use these packages
 feedparser==6.0.11
